@@ -1,6 +1,6 @@
 <H1>Chatbox App</H1>
 <br>
-Welcome to the Chat App repository! This is a simple chat application built using React Native, Expo, and Firebase. The app provides email signup/signin authentication and allows users to chat with each other in real-time within chatrooms.
+Welcome to the Chat App repository! This is a simple chat application built using React Native, TailwindCSS, Expo, and Firebase. The app provides email signup/signin authentication and allows users to chat with each other in real-time within chatrooms.
 <br>
 <br>
 <h3>Technologies Used:-</h3>
