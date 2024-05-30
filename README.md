@@ -13,3 +13,5 @@ Welcome to the Chat App repository! This is a simple chat application built usin
 2.Real-time Chat: Users can communicate with each other in real-time within chatrooms.<br>
 3.Simple UI: The app has a clean and intuitive user interface for easy navigation and interaction.<br>
 <br>
+![WhatsApp Image 2024-05-20 at 2 50 17 PM (2)](https://github.com/Ruchita019/ChatBox_App/assets/97290814/a7679f38-0cc1-46ad-89b5-4373e32102c8)
+
